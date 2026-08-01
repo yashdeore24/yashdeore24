@@ -69,6 +69,9 @@
 <img src="https://raw.githubusercontent.com/yashdeore24/yashdeore24/output/snake.svg" alt="Snake animation"/>
 
 </div>
+
+---
+
 ## 🎯 Current Learning Focus
 
 <div align="center">

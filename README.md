@@ -86,6 +86,30 @@
 
 ---
 
+## 🏆 Certifications
+
+<div align="center">
+
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JQJOLDVQTPQJ">
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/KSFM0U32ZUUL">
+  <img src="https://img.shields.io/badge/Discover%20the%20Art%20of%20Prompting-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/I0EYKU3Z5WI6">
+  <img src="https://img.shields.io/badge/Meta%20Version%20Control-1877F2?style=for-the-badge&logo=meta&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">

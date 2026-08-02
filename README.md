@@ -48,9 +48,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashdeore24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashdeore24&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdeore24&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=yashdeore24&theme=tokyonight&hide_border=true"/>
 
 </div>
 

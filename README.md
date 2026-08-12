@@ -1,4 +1,4 @@
-<div align="center">
+apialign="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00D9FF&height=250&section=header&text=Yash%20Deore&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 

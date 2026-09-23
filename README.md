@@ -317,14 +317,25 @@ A document-processing and AI application focused on extracting, processing, embe
 > 📌 **Generative AI Specialization — Coursera** is currently in progress.
 
 ---
-
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashdeore24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash Deore GitHub Stats"/>
+<a href="https://github.com/yashdeore24">
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=yashdeore24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Yash Deore GitHub Stats"
+  />
+</a>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=yashdeore24&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats">
+  <img 
+    width="49%" 
+    src="https://streak-stats.demolab.com?user=yashdeore24&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</a>
 
 </div>
 
@@ -332,10 +343,13 @@ A document-processing and AI application focused on extracting, processing, embe
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdeore24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img 
+  width="70%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdeore24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
 
 </div>
-
 ---
 
 # 📈 Contribution Activity
@@ -345,15 +359,29 @@ A document-processing and AI application focused on extracting, processing, embe
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdeore24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="95%" alt="Contribution Activity"/>
 
 </div>
-
 ---
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashdeore24/yashdeore24/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yashdeore24/yashdeore24/output/github-contribution-grid-snake-dark.svg"
+  />
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yashdeore24/yashdeore24/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/yashdeore24/yashdeore24/output/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 </div>
 
 ---

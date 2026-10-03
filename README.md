@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00D9FF&height=250&section=header&text=Yash%20Deore&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Yash Deore Header"/>
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Data+Scientist+%7C+AI+Engineer;Machine+Learning+%7C+Deep+Learning;NLP+%7C+Generative+AI+%7C+Computer+Vision;Python+%7C+SQL+%7C+TensorFlow;Building+Real-World+AI+Solutions" alt="Typing SVG"/>
